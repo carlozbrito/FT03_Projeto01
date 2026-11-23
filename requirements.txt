@@ -1,0 +1,7 @@
+Bibliotecas utilizadas:
+ -pyspark
+ -pyspark.sql.types 
+ -pyspark.sql.functions
+ -requests
+ - datetime
+ - SparkSession
