@@ -1,0 +1,9 @@
+,summary,variavel_id,variavel_nome,unidade,classificacao_id,classificacao_nome,categoria_id,categoria_nome,localidade_id,localidade_nome,nivel_id,nivel_nome,ano,valor_str
+0,count,26,26,26,26,26,26,26,26,26,26,26,26,26
+1,mean,246.0,,,1.0,,6795.0,,28.192307692307693,,,,2007.0,3.669230769230769
+2,stddev,0.0,,,0.0,,0.0,,12.358055610068213,,,,0.0,0.38484202553175595
+3,min,246,Média de moradores em domicílios particulares permanentes,Pessoas,1,Situação do domicílio,6795,Total,11,Acre,N3,Unidade da Federação,2007,3.09
+4,25%,246.0,,,1.0,,6795.0,,17.0,,,,2007.0,3.32
+5,50%,246.0,,,1.0,,6795.0,,26.0,,,,2007.0,3.65
+6,75%,246.0,,,1.0,,6795.0,,35.0,,,,2007.0,3.87
+7,max,246,Média de moradores em domicílios particulares permanentes,Pessoas,1,Situação do domicílio,6795,Total,52,Tocantins,N3,Unidade da Federação,2007,4.48

@@ -1,0 +1,9 @@
+,summary,codigoParlamentar,nomeParlamentar,titularSuplente,uf,partido,endereco,telefones,fax,dataNascimento,email,chefeGabinete,aniversario,mandato
+0,count,81,81,81,81,81,81,81,81,81,81,81,81,81
+1,mean,4719.098765432099,,,,,,,,,,,,
+2,stddev,2012.8743850830474,,,,,,,,,,,,
+3,min,1173,ALAN RICK,1º Suplente,AC,AVANTE,SENADO FEDERAL ANEXO 1  10º PAVIMENTO  ,(61)3303-1148,(61)3303-9828,01/06/1957,-,-,01/ago,2019 / 2027
+4,25%,4642.0,,,,,,,,,,,,
+5,50%,5525.0,,,,,,,,,,,,
+6,75%,5974.0,,,,,,,,,,,,
+7,max,825,ZEQUINHA MARINHO,Titular,TO,UNIÃO,SENADO FEDERAL EDIFÍCIO PRINCIPAL  1º PAVIMENTO  ,-,-,31/01/1955,wellington.dias@senador.leg.br,Wester Eliezer Silva Santos,31/jan,2023 / 2031
